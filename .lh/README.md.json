@@ -1,0 +1,18 @@
+{
+    "sourceFile": "README.md",
+    "activeCommit": 0,
+    "commits": [
+        {
+            "activePatchIndex": 0,
+            "patches": [
+                {
+                    "date": 1674223547638,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n"
+                }
+            ],
+            "date": 1674223547638,
+            "name": "Commit-0",
+            "content": "## admin-validator-usps\n\n\n#Installation\n\n- Clone this git repo  to relevant Webserver \n- Change the database credentials in “add-data.php” \n   > $servername = \"localhost\";\n\n   > $username = \"username\";\n   \n   > $password = \"password\";\n   \n   > $dbname = \"address-validator\";\n-  Upload the “addresses.sql” into mysql\n-  In address-validator.php page , line no .23 add related user_id for accessing USPS api.\n   > * $user_id = \"YOUR_USPS_USER_ID\";*\n- Now you can Start the address-validator url in localhost \n\n"
+        }
+    ]
+}
