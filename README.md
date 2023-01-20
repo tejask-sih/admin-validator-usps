@@ -2,7 +2,7 @@
 
 
 ## Installation
-![](https://pandao.github.io/editor.md/images/logos/editormd-logo-180x180.png)
+
 - Clone this git repo  to relevant Webserver 
 - Change the database credentials in “add-data.php” 
    > $servername = "localhost";
