@@ -1,7 +1,7 @@
 ## admin-validator-usps
 
 
-#Installation
+## Installation
 
 - Clone this git repo  to relevant Webserver 
 - Change the database credentials in “add-data.php” 
